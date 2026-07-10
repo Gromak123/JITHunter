@@ -1,0 +1,4 @@
+ldap3>=2.9
+impacket>=0.11.0
+rich>=13.0
+rich-argparse>=1.4
